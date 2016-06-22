@@ -14,8 +14,8 @@ import requests
 OECD_ROOT_URL = 'http://stats.oecd.org/sdmx-json/data'
 
 
+#  Make a URL for the OECD-API and return a response
 def make_OECD_request(dsname, dimensions, params=None, root_dir=OECD_ROOT_URL):
-    """  Make a URL for the OECD-API and return a response  """
 
     #  shouldn't use mutable values, such as {}, for Py function defaults
     if not params:
