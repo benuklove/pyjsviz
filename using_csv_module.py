@@ -3,7 +3,7 @@
   Created on 6/23/2016 by Ben
 
   Does same thing as passing_data.py but with Python's csv module
-  Does not work.  I don't know why.
+  (Writes a csv file from a python list of dictionaries)
 
 """
 
@@ -28,7 +28,7 @@ nobel_winners = [
         'year': 1911}
 ]
 
-with open('data/nobel_winners.csv', 'wb') as f:
+with open('data/nobel_winners.csv', 'w', newline='') as f:
     fieldnames = list(nobel_winners[0].keys())
     fieldnames.sort()
     writer = csv.DictWriter(f, fieldnames=fieldnames)
