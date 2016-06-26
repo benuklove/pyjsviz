@@ -13,7 +13,6 @@
 """
 
 import datetime
-from dateutil import parser
 import json
 
 
