@@ -6,6 +6,7 @@
   
   Create a (file-based) SQLite database using sqlalchemy.
   First creates a database engine.
+  *** paused for now, learning more elsewhere ***
 
 """
 
