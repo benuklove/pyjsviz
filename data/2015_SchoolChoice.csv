@@ -1,0 +1,1005 @@
+LEA,LEADescription,SchoolEnrollment,SchoolChoiceTotal
+101001,Dewitt Elementary School,489,2
+101003,Dewitt Middle School,291,2
+101004,Dewitt High School,390,2
+101008,Gillett Elementary School,87,0
+104021,Park Avenue Elementary School,637,32
+104023,Meekins Middle School,252,15
+104025,Stuttgart High School,510,29
+104026,Stuttgart Junior High School,262,16
+201001,Crossett Elementary School,720,3
+201006,Crossett High School,529,1
+201008,Crossett Middle School,536,2
+203017,Hamburg Middle School,487,18
+203018,Hamburg High School,595,19
+203019,Wilmot Elementary School,49,2
+203020,Noble/Allbritton Elementary Sc,679,10
+203027,Portland Elementary School,125,14
+302006,Amanda Gist Elementary School,408,45
+302007,Cotter High School,293,44
+303013,Nelson Wilks Herron Elementary,632,20
+303014,Pinkston Middle School,618,20
+303018,Mountain Home Kindergarten,267,0
+303019,Mountain Home Jr. High School,302,12
+303024,Hackler Intermediate School,915,25
+304021,Norfork Elementary School,252,4
+304022,Norfork High School,220,12
+401001,Thomas Jefferson Elem. School,490,0
+401002,Washington Junior High School,734,0
+401003,Bentonville High School,4358,0
+401004,R.E. Baker Elementary School,551,0
+401005,Old High Middle School,598,0
+401006,Sugar Creek Elementary School,514,0
+401007,Apple Glen Elementary School,533,0
+401008,Ardis Ann Middle School,623,0
+401009,Elm Tree Elementary School,610,0
+401010,Lincoln Junior High School,830,0
+401011,Mary Mae Jones Elem. School,634,0
+401012,Central Park At Morning Star,876,0
+401013,Ruth Barker Middle School,571,0
+401014,Centerton Gamble Elementary,650,0
+401015,Cooper Elementary School,680,0
+401016,Willowbrook Elementary School,835,0
+401017,Bright Field Middle School,646,0
+401018,J. William Fulbright Junior High School,764,0
+402008,Decatur Northside Elementary,284,0
+402009,Decatur High School,141,0
+402011,Decatur Middle School,119,0
+403013,Gentry Intermediate School,305,8
+403014,Gentry High School,450,8
+403015,Gentry Middle School,327,9
+403016,Gentry Primary School,336,7
+404022,Gravette High School,619,17
+404023,Glenn Duffy Elementary School,386,5
+404024,Gravette Middle School,453,7
+404025,Gravette Upper Elementary,412,10
+405031,Eastside Elementary School,533,1
+405032,Garfield Elementary School,131,0
+405033,Lowell Elementary School,444,0
+405034,Northside Elementary School,538,0
+405036,Westside Elementary School,427,1
+405037,Elmwood Middle School,798,1
+405039,Oakdale Middle School,802,0
+405040,Grace Hill Elementary School,453,0
+405041,Bonnie Grimes Elem. School,445,0
+405042,Reagan Elementary School,439,1
+405043,Frank Tillery Elem. School,602,0
+405044,Joe Mathias Elementary School,543,0
+405045,Kirksey Middle School,1023,1
+405046,Lingle Middle School,899,0
+405047,Bellview Elementary,448,1
+405048,Rogers High School,2015,10
+405049,Jones Elementary School,499,0
+405050,Elza R. Tucker Elem. School,578,1
+405051,Old Wire Elementary School,532,0
+405052,Rogers Heritage High School,2013,1
+405053,Janie Darr Elementary School,480,0
+406045,Siloam Springs Intermediate School,615,6
+406046,Northside Elementary School,306,0
+406047,Southside Elementary School,592,5
+406048,"Delbert ""pete"" & Pat Allen Ele",642,1
+406049,Siloam Springs Middle School,657,5
+406050,Siloam Springs High School,1301,7
+407025,Pea Ridge Primary School,400,10
+407026,Pea Ridge Intermediate School,411,5
+407027,Pea Ridge High School,459,6
+407028,Pea Ridge Middle School,484,7
+501001,Alpena Elementary School,295,8
+501002,Alpena High School,226,9
+502006,Bergman Elementary School,399,33
+502007,Bergman High School,371,48
+502008,Bergman Middle School,362,40
+503011,Eagle Heights Elem. School,170,6
+503012,Forest Heights Elem. School,418,4
+503013,Skyline Heights Elem. School,370,3
+503014,Woodland Heights Elem. School,107,0
+503015,Harrison Jr. High School,589,4
+503016,Harrison High School,626,9
+503018,Harrison Middle School,419,3
+504022,Omaha Elementary School,224,9
+504023,Omaha High School,188,5
+505026,Valley Springs Elem. School,359,16
+505027,Valley Springs High School,293,26
+505028,Valley Springs Middle School,282,18
+506031,Lead Hill Elementary School,206,4
+506032,Lead Hill High School,162,5
+601006,Hermitage Elementary School,219,0
+601007,Hermitage High School,186,0
+602014,Warren High School,466,25
+701001,Hampton Elementary School,282,0
+701002,Hampton High School,256,0
+801001,Berryville Elementary School,512,12
+801002,Berryville High School,618,15
+801003,Berryville Middle School,449,8
+801004,Berryville Intermediate Sch,475,10
+802006,Eureka Springs Elem. School,224,1
+802007,Eureka Springs High School,200,4
+802008,Eureka Springs Middle School,180,1
+803011,Green Forest Elementary School,379,2
+803012,Green Forest High School,371,7
+803013,Green Forest Intermed School,470,7
+901001,Dermott Elementary School,248,0
+901003,Dermott High School,167,0
+903007,Eudora Elementary School,121,0
+903016,Lakeside Elementary School,431,0
+903017,Lakeside Middle School,208,0
+903018,Lakeside High School,301,0
+1002006,Central Primary School,304,4
+1002007,Louisa Perritt Primary,319,0
+1002008,Peake Elementary School,299,0
+1002009,Goza Middle School,431,0
+1002010,Arkadelphia High School,550,5
+1003016,Gurdon Primary School,254,0
+1003017,Cabe Middle School,205,0
+1003018,Gurdon High School,246,1
+1101004,Corning High School,431,4
+1101005,Central Elementary School,290,3
+1101006,Park Elementary School,199,1
+1104017,Piggott Elementary School,449,3
+1104018,Piggott High School,440,8
+1106022,Rector Elementary School,335,5
+1106023,Rector High School,274,3
+1201001,Concord Elementary School,244,7
+1201002,Concord High School,202,3
+1202005,Heber Springs Elem. School,832,21
+1202006,Heber Springs High School,542,26
+1202007,Heber Springs Middle School,417,25
+1203010,Quitman Elementary School,312,6
+1203011,Quitman High School,344,13
+1204014,West Side Elementary School,237,8
+1204015,West Side High School,208,7
+1304014,Woodlawn Elementary School,277,6
+1304015,Woodlawn High School,265,9
+1305001,Kingsland Elementary School,124,1
+1305009,Rison Elementary School,295,3
+1305010,Rison High School,454,6
+1402006,Central Elementary School,633,1
+1402007,East Side Elementary School,961,1
+1402008,Magnolia Jr. High School,669,4
+1402009,Magnolia High School,667,4
+1408001,Emerson Elementary School,183,8
+1408002,Emerson High School,121,6
+1408006,Bradley Elementary School,160,5
+1408007,Bradley High School,174,5
+1408018,Taylor Elementary School,203,10
+1408019,Taylor High School,146,7
+1503016,Nemo Vista Elementary School,170,9
+1503017,Nemo Vista High School,155,4
+1503018,Nemo Vista Middle School,104,0
+1505025,Wonderview Elementary School,237,3
+1505026,Wonderview High School,180,0
+1507029,Morrilton Elementary School,363,0
+1507031,Morrilton Intermediate School,502,0
+1507032,Morrilton Primary School,397,0
+1507036,Morrilton Sr. High School,668,0
+1507037,Morrilton Junior High School,364,0
+1601001,Bay Elementary School,330,8
+1601002,Bay High School,256,8
+1602055,Westside High School,662,27
+1602056,Westside Elementary School,620,14
+1602058,Westside Middle School,427,6
+1603006,Brookland Elementary School,724,31
+1603007,Brookland High School,391,20
+1603009,Brookland Middle School,510,17
+1603010,Brookland Junior High School,472,18
+1605060,Buffalo Is. Central West Elem.,242,2
+1605061,Buffalo Is. Central East Elem.,197,0
+1605062,Buffalo Is. Central Jhs,198,1
+1605063,Buffalo Is. Central Hs,175,0
+1608017,Math & Science Magnet School,566,0
+1608019,Visual & Performing Art Magnet,699,28
+1608020,Health/Wellness Envi Magnet,638,6
+1608021,International Studies Magnet,478,28
+1608022,Microsociety Magnet School,545,1
+1608023,Annie Camp Jr. High School,635,5
+1608024,Douglas MacArthur Jhs,647,24
+1608026,Kindergarten Center,531,0
+1611039,Fox Meadow Elementary,440,13
+1611040,University Hgts. Elem. School,433,10
+1611041,Nettleton Junior High School,515,18
+1611042,Nettleton High School,876,45
+1611043,Nettleton Intermediate Center,423,16
+1611045,Fox Meadow Intermediate Center,345,13
+1611046,Nettleton Middle School,232,7
+1612047,Valley View Elementary School,634,29
+1612048,Valley View High School,585,36
+1612050,Valley View Intermediate School,846,27
+1612051,Valley View Junior High School,618,8
+1613010,Riverside East Elem. School,178,0
+1613021,Riverside High School,371,6
+1613031,Riverside West Elem. School,253,3
+1701001,Alma Intermediate School,671,57
+1701002,Alma High School,1052,95
+1701003,Alma Middle School,792,67
+1701004,Alma Primary School,706,45
+1702008,Cedarville Elementary School,307,11
+1702009,Cedarville High School,299,24
+1702010,Cedarville Middle School,265,6
+1703012,Mountainburg Elementary School,231,20
+1703013,Mountainburg High School,206,8
+1703022,Mountainburg Middle School,223,25
+1704016,Marvin Primary School,164,2
+1704017,Mulberry High School,84,1
+1704018,Pleasant View Junior High,69,0
+1704022,Millsap Intermediate School,49,0
+1705020,City Heights Elementary School,362,5
+1705022,King Elementary School,526,7
+1705025,Central Elementary School,430,9
+1705026,Butterfield Trail Middle Schoo,676,12
+1705027,Van Buren High School,1825,57
+1705029,James R. Tate Elem. School,380,6
+1705030,Parkview Elementary School,484,9
+1705032,Rena Elementary School,488,16
+1705033,Northridge Middle School,657,27
+1802005,Earle Elementary School,307,0
+1802007,Earle High School,305,0
+1803025,Bragg Elementary School,442,64
+1803026,Faulk Elementary School,575,0
+1803027,Jackson Elementary School,312,1
+1803028,Maddux Elementary School,506,0
+1803029,Richland Elementary School,567,138
+1803030,Weaver Elementary School,353,0
+1803032,Wonder Elementary School,373,0
+1803033,East Junior High School,337,1
+1803034,West Junior High School,424,68
+1803035,Wonder Junior High School,420,0
+1804011,Avondale Elementary School,669,5
+1804012,Marion Elementary School,630,7
+1804014,Marion Junior High School,689,4
+1804015,Marion High School,890,7
+1804016,Marion Middle School,627,10
+1804017,Marion Intermediate School,617,5
+1905014,Wynne Primary School,688,8
+1905015,Wynne Intermediate School,654,17
+1905016,Wynne Junior High School,659,19
+1905017,Wynne High School,809,21
+2002007,Fordyce High School,382,14
+2002008,Fordyce Elementary Schools,454,17
+2104017,Central Elementary School,333,0
+2104020,Dumas Junior High School,335,0
+2104021,Dumas High School,328,1
+2104024,Reed Elementary School,405,1
+2105026,McGehee Elementary School,657,0
+2105028,McGehee High School,507,1
+2202004,Drew Central Elem. School,337,18
+2202005,Drew Central High School,305,11
+2202007,Drew Central Middle School,295,6
+2203010,Monticello Elementary School,542,0
+2203011,Monticello Middle School,452,0
+2203012,Monticello High School,670,17
+2203014,Monticello Intermediate School,427,0
+2301001,Ida Burns Elementary School,409,0
+2301003,Ellen Smith Elementary School,442,0
+2301004,Carl Stuart Middle School,750,0
+2301006,Conway High School,2035,1
+2301008,Julia Lee Moore Elem. School,387,0
+2301009,Florence Mattison Elem. School,452,0
+2301010,Marguerite Vann Elem. School,469,0
+2301011,Jim Stone Elementary School,416,0
+2301012,Theodore Jones Elem. School,464,0
+2301013,Bob Courtway Middle School,499,2
+2301016,Ruth Doyle Middle School,523,0
+2301017,Ray/Phyllis Simon Middle Schoo,468,0
+2301018,Woodrow Cummins Elementary Sch,500,1
+2301019,Carolyn Lewis Elementary Schoo,509,0
+2301020,Conway Junior High School,1448,0
+2303016,Greenbrier Eastside Elementary,558,20
+2303017,Greenbrier High School,764,15
+2303018,Greenbrier Middle School,542,15
+2303019,Greenbrier Westside Elementary,465,14
+2303020,Greenbrier Junior High School,546,8
+2303021,Greenbrier Wooster Elementary,500,7
+2304021,Guy-Perkins Elementary School,223,9
+2304022,Guy-Perkins High School,185,9
+2305025,Mayflower Elementary School,406,0
+2305026,Mayflower High School,376,0
+2305027,Mayflower Middle School,341,0
+2306029,Mt. Vernon/Enola Elem. School,269,5
+2306030,Mt. Vernon/Enola High School,228,5
+2307033,Vilonia Elementary School,642,7
+2307034,Vilonia High School,723,1
+2307035,Vilonia Primary School,509,0
+2307036,Vilonia Junior High School,520,2
+2307037,Vilonia Middle School,651,8
+2402006,Charleston Elementary School,460,12
+2402007,Charleston High School,416,11
+2403011,County Line Elementary School,221,9
+2403012,County Line High School,235,6
+2404004,Ozark Middle School,291,10
+2404005,Ozark Kindergarten School,145,0
+2404015,Elgin B. Milton Elem. School,750,33
+2404016,Ozark Junior High School,270,24
+2404017,Ozark High School,410,27
+2501001,Mammoth Spring Elem. School,227,9
+2501002,Mammoth Spring High School,223,17
+2502005,Salem Elementary School,421,30
+2502006,Salem High School,345,26
+2503009,Viola Elementary School,203,0
+2503010,Viola High School,189,6
+2601001,Cutter-Morning Star Elem. Sch.,322,31
+2601002,Cutter-Morning Star High Sch.,279,27
+2602005,Fountain Lake Elementary,462,17
+2602006,Fountain Lake High School,422,29
+2603011,Gardner Stem Magnet School,440,3
+2603013,Summit School,126,0
+2603015,Oaklawn Magnet School,573,16
+2603016,Park Magnet School,274,42
+2603020,Hot Springs Middle School,546,29
+2603021,Hot Springs High School,872,49
+2603023,Langston Magnet School,332,3
+2603024,Hot Springs Intermediate School,526,31
+2604029,Jessieville Elementary School,421,33
+2604030,Jessieville High School,286,28
+2604031,Jessieville Middle School,196,20
+2605033,Lake Hamilton Elementary Sch,650,16
+2605034,Lake Hamilton High School,1039,19
+2605035,Lake Hamilton Jr. High School,701,15
+2605036,Lake Hamilton Interm. School,673,12
+2605037,Lake Hamilton Middle School,693,18
+2605038,Lake Hamilton Primary School,687,8
+2606039,Lakeside Primary School,502,17
+2606042,Lakeside Intermediate School,745,75
+2606043,Lakeside Middle School,792,77
+2606044,Lakeside High School,1280,125
+2607046,Mountain Pine Elem. School,297,22
+2607047,Mountain Pine High School,239,14
+2703009,Poyen Elementary School,294,66
+2703010,Poyen High School,288,88
+2705018,East End Elementary School,398,0
+2705019,Sheridan Elementary School,565,1
+2705020,Sheridan Middle School,888,0
+2705021,Sheridan High School,1224,1
+2705023,Sheridan Intermediate School,555,1
+2705024,East End Intermediate School,489,0
+2803016,Marmaduke Elementary School,384,18
+2803017,Marmaduke High School,359,45
+2807004,Greene Cty Tech Elem. School,565,129
+2807007,Greene Co. Tech Middle School,560,133
+2807008,Greene Co. Tech High School,750,151
+2807009,Green Co. Tech Jr. High School,530,107
+2807010,Greene Co. Tech Primary School,578,51
+2807011,Greene Cty Tech Intermediate,573,133
+2808024,Baldwin Elementary School,252,47
+2808027,Woodrow Wilson Elem. School,235,18
+2808028,Oak Grove Middle School,497,71
+2808042,Paragould Junior High,469,59
+2808043,Paragould High School,825,132
+2808044,Paragould Primary School,535,37
+2808045,Oak Grove Elementary School,236,21
+2901001,Blevins Elementary School,253,1
+2901002,Blevins High School,237,2
+2903007,Wm. Jefferson Clinton Primary,1079,0
+2903008,Beryl Henry Upper Elem. School,360,0
+2903011,Yerger Junior High School,334,0
+2903012,Hope High School,728,1
+2906025,Spring Hill Elementary School,292,52
+2906026,Spring Hill High School,278,18
+3001001,Bismarck Elementary School,364,3
+3001002,Bismarck Middle School,291,10
+3001003,Bismarck High School,314,2
+3002007,Glen Rose Elementary School,372,20
+3002009,Glen Rose High School,321,18
+3002010,Glen Rose Middle School,310,20
+3003013,Magnet Cove Elementary School,343,39
+3003014,Magnet Cove High School,329,32
+3004021,Malvern Elementary School,895,2
+3004022,Malvern Middle School,287,1
+3004023,Malvern High School,576,1
+3004025,Wilson Intermediate School,307,0
+3005029,Ouachita Elementary School,288,10
+3005030,Ouachita High School,225,6
+3102001,Joann Walters Elementary Sch,321,18
+3102002,Dierks High School,262,14
+3104005,Mineral Springs Elem. School,226,0
+3104006,Mineral Springs High School,180,0
+3105009,Nashville Elementary School,441,10
+3105010,Nashville Junior High School,423,2
+3105011,Nashville High School,411,0
+3105012,Nashville Primary School,633,19
+3201001,Central Elementary School,335,5
+3201003,West Elementary School,530,4
+3201004,Batesville Junior High School,700,31
+3201005,Batesville High School,606,48
+3201009,Eagle Mountain Elem School,491,19
+3201042,Sulphur Rock Elementary,365,14
+3209038,Southside Elementary School,521,121
+3209039,Southside High School,392,111
+3209041,Southside Middle School,381,115
+3209042,Southside Junior High School,364,86
+3211022,Midland Elementary School,285,8
+3211035,Midland High School,216,8
+3212010,Cord-Charlotte Elem. School,108,2
+3212026,Newark Elementary School,307,7
+3212027,Cedar Ridge High School,420,23
+3301001,Calico Rock Elementary School,207,4
+3301002,Calico Rock High School,189,0
+3302005,Melbourne Elementary School,347,10
+3302006,Melbourne High School,370,20
+3302010,Mount Pleasant Elem. School,134,12
+3306014,Izard Co. Cons. Elem. School,187,0
+3306015,Izard Co. Cons. High School,140,5
+3306016,Izard County Cons Middle Sch,155,2
+3403013,Newport High School,560,1
+3403014,Newport Elementary School,706,0
+3405019,Swifton Middle School,190,5
+3405024,Tuckerman Elementary School,332,14
+3405025,Tuckerman High School,329,7
+3502006,Matthews Elementary School,220,0
+3502009,Robert F Morehead Middle Schoo,275,0
+3502010,Dollarway High School,423,0
+3502011,Townsend Park Elementary Schoo,379,1
+3505025,Belair Middle School,308,1
+3505026,Broadmoor Elementary School,383,0
+3505034,Oak Park Elementary School,338,1
+3505036,Thirty-Fourth Ave. Elem. Sch.,479,1
+3505037,Southwood Elementary School,392,0
+3505041,Southeast Middle School,387,3
+3505042,Pine Bluff High School,926,1
+3505044,Jack Robey Jr. High School,650,4
+3505046,W. T. Cheney Elementary School,377,1
+3509063,Edgewood Elementary School,434,4
+3509064,L. L. Owen Elementary School,418,32
+3509066,Coleman Elementary School,553,60
+3509067,Watson Chapel High School,660,80
+3509068,Watson Chapel Jr. High School,714,72
+3510076,White Hall High School,967,75
+3510078,Hardin Elementary School,234,0
+3510079,Moody Elementary School,363,15
+3510080,Taylor Elementary School,373,10
+3510081,White Hall Middle School,654,39
+3510084,Gandy Elementary School,353,18
+3601001,Pyron Elementary School,599,23
+3601002,Kraus Middle School,434,17
+3601003,Clarksville Primary School,474,11
+3601004,Clarksville Junior High School,633,17
+3601005,Clarksville High School,545,30
+3604018,Lamar Elementary School,421,34
+3604019,Lamar High School,464,30
+3604020,Lamar Middle School,366,18
+3606025,Westside Elementary School,359,17
+3606026,Westside High School,295,15
+3704007,Lafayette County Elementary,346,0
+3704013,Lafayette County High School,302,0
+3804009,Hoxie Elementary School,440,51
+3804010,Hoxie High School,423,132
+3806018,Sloan-Hendrix Elem. School,263,12
+3806019,Sloan-Hendrix High School,295,19
+3806020,Sloan-Hendrix Middle School,148,10
+3809014,Hillcrest Elementary School,208,2
+3809023,Hillcrest High School,214,1
+3810026,Walnut Ridge Elementary School,493,71
+3810027,Walnut Ridge High School,429,75
+3904005,Whitten Elementary School,216,0
+3904010,Anna Strong Intermediate Schoo,219,0
+3904011,Lee High School,392,0
+4003014,Brown Elementary School,703,0
+4003015,Star City Middle School,379,0
+4003016,Star City High School,488,2
+4101001,L.F. Henderson Interm. Sch.,217,0
+4101002,C. D. Franks Elementary School,217,0
+4101003,Ashdown Junior High School,329,0
+4101004,Ashdown High School,451,1
+4101005,Margaret Daniels Primary,232,0
+4102008,Oscar Hamilton Elementary Sch,250,7
+4102010,Foreman High School,252,7
+4201001,Booneville Elementary School,669,8
+4201002,Booneville High School,298,5
+4201003,Booneville Jr High School,304,9
+4202007,Magazine Elementary School,269,26
+4202008,J.D. Leftwich High School,256,32
+4203011,Paris Elementary School,402,14
+4203012,Paris High School,357,10
+4203013,Paris Middle School,330,10
+4204016,Scranton Elementary School,213,6
+4204019,Scranton High School,200,22
+4301027,Lonoke Elementary School,367,3
+4301028,Lonoke Middle School,414,1
+4301029,Lonoke High School,580,3
+4301030,Lonoke Primary School,393,2
+4302017,England Elementary School,393,2
+4302018,England High School,359,1
+4303012,Carlisle Elementary School,360,6
+4303013,Carlisle High School,326,4
+4304001,Eastside Elementary School,430,0
+4304002,Central Elementary School,343,0
+4304004,Cabot Junior High South,799,6
+4304005,Cabot High School,2085,9
+4304006,Westside Elementary School,397,4
+4304007,Southside Elementary School,464,2
+4304008,Northside Elementary School,362,6
+4304009,Ward Central Elementary,526,0
+4304010,Cabot Middle School South,740,3
+4304011,Cabot Junior High North,888,4
+4304012,Cabot Middle School North,871,1
+4304013,Magness Creek Elementary,356,7
+4304014,Stagecoach Elementary School,466,2
+4304015,Mountain Springs Elem School,401,2
+4304017,Cabot Freshman Academy,782,1
+4401001,Watson Primary School,451,1
+4401002,Huntsville Middle School,496,0
+4401003,Huntsville High School,667,3
+4401004,Huntsville Intermediate Sch,479,0
+4401011,St. Paul Elementary School,107,0
+4401012,St. Paul High School,103,0
+4501001,Flippin Elementary School,382,28
+4501002,Flippin High School,246,5
+4501003,Flippin Middle School,183,4
+4502005,Yellville-Summit Elem. School,245,3
+4502006,Yellville-Summit High School,255,9
+4502007,Yellville-Summit Middle School,194,2
+4602005,Genoa Central Elem. School,422,4
+4602006,Genoa Central High School,334,3
+4602007,Gary E. Cobb Middle School,330,2
+4603009,Fouke Elementary School,480,6
+4603010,Fouke High School,310,5
+4603011,Paulette Smith Middle School,228,3
+4605019,College Hill Elementary School,328,0
+4605020,Fairview Elementary School,282,0
+4605021,Vera Kilpatrick Elem. School,393,0
+4605022,Union Elementary School,271,0
+4605024,College Hill Middle,607,0
+4605025,North Heights Jr. High School,649,2
+4605026,Arkansas High School,1106,5
+4605027,Edward D. Trice Elem. School,566,0
+4701001,Armorel Elementary School,215,7
+4701002,Armorel High School,209,15
+4702006,Blytheville Elementary School,495,0
+4702008,Blytheville Primary School,681,0
+4702012,Blytheville Middle School,473,0
+4706066,Rivercrest High School,595,4
+4706069,Rivercrest Elementary School,652,5
+4708028,Gosnell Elementary School,688,19
+4708031,Gosnell High School,617,18
+4712043,Manila Elementary School,413,6
+4712044,Manila High School,343,3
+4712045,Manila Middle School,302,4
+4713051,Osceola High School,370,1
+4713052,North Elementary School,119,0
+4713053,Carroll Smith Elementary Schoo,421,0
+4801001,C.B. Partee Elementary School,273,6
+4801003,Brinkley High School,245,4
+4802008,Clarendon Elementary School,287,0
+4802010,Clarendon High School,263,0
+4901001,Caddo Hills Elementary School,340,25
+4901003,Caddo Hills High School,234,22
+4902006,Mount Ida Elementary School,237,2
+4902007,Mount Ida High School,246,11
+5006022,Prescott Elementary School,429,9
+5006023,McRae Middle School,154,7
+5006024,Prescott High School,423,27
+5008013,Nevada Elementary School,214,12
+5008014,Nevada High  School,197,6
+5102005,Jasper Elementary School,243,0
+5102006,Jasper High School,230,3
+5102007,Kingston Elementary School,143,11
+5102008,Kingston High School,109,8
+5102023,Oark Elementary School,69,3
+5102024,Oark High School,82,3
+5106001,Deer Elementary School,102,0
+5106002,Deer High School,101,2
+5106009,Mount Judea Elementary School,84,2
+5106010,Mount Judea High School,68,11
+5201001,Bearden Elementary School,259,16
+5201002,Bearden High School,266,6
+5204021,Fairview Elementary School,451,0
+5204023,Camden Fairview High School,698,0
+5204025,Ivory Primary School,485,0
+5204026,Camden Fairview Intermediate,381,0
+5204028,Camden Fairview Middle School,552,1
+5205011,Sparkman Elementary School,89,0
+5205012,Sparkman High School,72,0
+5205028,Harmony Grove Elem. School,418,32
+5205029,Harmony Grove High School,381,26
+5301001,Anne Watson Elementary School,334,9
+5301002,Bigelow High School,277,1
+5303010,Perryville Elementary School,494,51
+5303011,Perryville High School,483,72
+5401002,Barton Elementary School,428,26
+5401003,Barton High School,390,26
+5403019,Central High School,737,0
+5403020,Eliza Miller Primary School,519,0
+5403021,Eliza Miller Elementary School,330,0
+5404030,Marvell-Elaine Elementary Sch,169,0
+5404032,Marvell-Elaine High School,206,0
+5502006,Centerpoint Primary School,279,9
+5502008,Centerpoint Intermediate Sch,146,7
+5502010,Centerpoint High School,517,61
+5503010,Kirby Elementary School,175,3
+5503011,Kirby High School,196,2
+5504001,Delight Elementary School,104,0
+5504014,Murfreesboro Elementary School,281,1
+5504015,Murfreesboro High School,310,2
+5602005,Harrisburg Elementary School,386,4
+5602007,Harrisburg High School,370,0
+5602008,Harrisburg Middle School,352,1
+5602031,Weiner Elementary,111,0
+5604015,Marked Tree Elementary School,263,0
+5604017,Marked Tree High School,178,1
+5604018,Marked Tree Middle School,117,3
+5605001,Trumann Intermediate Sch 5-6,224,1
+5605021,Cedar Park Elementary School,719,1
+5605023,Trumann High School,439,1
+5605024,Trumann Intermediate School7-8,254,0
+5608034,Lepanto Elementary,161,2
+5608035,Tyronza Elementary,214,13
+5608037,East Poinsett Co. High School,331,1
+5703009,Louise Durham Elem. School,452,0
+5703010,Holly Harshman Elem. School,375,0
+5703011,Mena Middle School,375,0
+5703012,Mena High School,549,0
+5706001,Acorn Elementary School,239,2
+5706002,Acorn High School,293,19
+5706010,Oden Maddox Elementary School,79,0
+5706011,Oden High School,101,0
+5707016,Umpire Elementary School,65,1
+5707017,Umpire High School,65,1
+5707019,Van Cove Elementary School,196,3
+5707021,Wickes Elementary School,327,0
+5707023,Cossatot River High School,439,7
+5801001,Atkins Elementary School,400,1
+5801002,Atkins High School,299,7
+5801003,Atkins Middle School,303,3
+5802006,Dover High School,455,22
+5802008,Dover Middle School,342,11
+5802009,Dover Elementary School,597,24
+5803009,Hector Elementary School,307,12
+5803010,Hector High School,270,20
+5804013,Pottsville Elementary School,508,44
+5804014,Pottsville High School,364,71
+5804015,Pottsville Middle Grade,385,76
+5804016,Pottsville Junior High School,390,69
+5805017,Crawford Elementary School,411,2
+5805018,Dwight Elementary School,248,0
+5805019,London Elementary School,145,0
+5805020,Oakland Heights Elem. School,432,3
+5805021,Sequoyah Elementary School,486,2
+5805022,Russellville Middle School,733,9
+5805023,Russellville Jr. High School,800,7
+5805024,Russellville High School,1086,19
+5805025,Center Valley Elem. School,453,23
+5805026,Russellville Upper Elem. Sch.,397,3
+5901001,Des Arc Elementary School,283,8
+5901002,Des Arc High School,279,5
+5903011,Hazen Elementary School,431,4
+5903012,Hazen High School,203,4
+6001001,Central High School,2489,29
+6001002,Hall High School,1189,4
+6001003,Mann Magnet Middle School,789,3
+6001005,Parkview Magnet High School,1033,16
+6001006,Booker Arts Magnet Elem. Sch.,497,7
+6001007,Dunbar Magnet Middle School,786,13
+6001010,Pulaski Heights Middle School,834,12
+6001013,Henderson Middle School,784,0
+6001017,Bale Elementary School,332,1
+6001018,Brady Elementary School,348,1
+6001020,McDermott Elementary School,343,4
+6001021,Carver Magnet Elem. School,291,7
+6001024,Forest Park Elementary School,392,0
+6001025,Franklin Incentive Elem. Sch.,284,0
+6001027,Gibbs Magnet Elementary School,251,5
+6001029,Western Hills Elem. School,220,1
+6001030,Jefferson Elementary School,382,8
+6001033,Meadowcliff Elementary School,305,3
+6001035,M.L. King Magnet Elem. School,463,5
+6001038,Pulaski Heights Elem. School,344,1
+6001040,Romine Interdist. Elem. School,312,0
+6001041,Stephens Elementary,341,1
+6001042,Washington Magnet Elem. School,452,2
+6001043,Williams Magnet Elem. School,382,2
+6001044,Wilson Elementary School,274,2
+6001047,Terry Elementary School,370,0
+6001048,Fulbright Elementary School,534,2
+6001050,Rockefeller Incentive Elem.,284,7
+6001052,Baseline Elementary School,270,1
+6001055,David O'Dodd Elementary School,290,0
+6001056,Geyer Springs Gifted And Talented Academy,198,0
+6001057,Mabelvale Elementary School,545,2
+6001058,Otter Creek Elementary School,538,9
+6001059,Wakefield Elementary School,550,0
+6001062,Mabelvale Middle School,658,2
+6001063,J.A. Fair High School,916,4
+6001064,McClellan Magnet High School,906,4
+6001071,Watson Intermediate School,413,1
+6001072,Chicot Primary School,602,2
+6001073,Don Roberts Elementary School,893,4
+6001075,Forest Heights Stem Academy,696,14
+6002050,Amboy Elementary School,377,1
+6002054,Boone Park Elementary School,340,0
+6002055,Crestwood Elementary School,499,61
+6002056,Glenview Elementary School,164,0
+6002057,Indian Hills Elementary School,575,120
+6002058,Lakewood Elementary School,423,34
+6002061,Meadow Park Elementary School,430,0
+6002063,No. Heights Elementary School,415,0
+6002064,Park Hill Elementary School,324,0
+6002065,Pike View Elementary School,354,3
+6002069,Seventh Street Elem. School,286,0
+6002070,Lakewood Middle School,1149,104
+6002080,North Little Rock Academy,154,0
+6002081,Ridgeroad Middle School,618,0
+6002082,North Little Rock High School,2468,54
+6003092,Baker Interdistrict Elem. Sch.,419,0
+6003093,Crystal Hill Elementary,640,1
+6003094,Bayou Meto Elementary School,281,0
+6003095,Clinton Elementary School,585,0
+6003099,Warren Dupree Elem. School,408,0
+6003102,Harris Elementary School,203,0
+6003104,Landmark Elementary School,261,0
+6003105,Lawson Elementary School,233,0
+6003106,Tolleson Elementary School,320,0
+6003108,Oak Grove Elementary School,241,0
+6003110,Joe T. Robinson Elem. School,163,0
+6003111,Scott Elementary School,125,0
+6003112,Sherwood Elementary School,336,0
+6003113,Sylvan Hills Elementary School,440,0
+6003119,Jacksonville Middle School,613,0
+6003120,Fuller Middle School,449,6
+6003122,Sylvan Hills Middle School,836,1
+6003123,Jacksonville High School,803,0
+6003125,Wilbur D. Mills High School,676,6
+6003127,Joe T. Robinson High School,513,0
+6003128,Sylvan Hills High School,975,0
+6003129,Cato Elementary School,346,0
+6003130,Pinewood Elementary School,454,0
+6003135,College Station Elem. School,212,1
+6003136,North Pulaski High School,668,0
+6003137,Arnold Drive Elementary School,242,0
+6003139,Oakbrooke Elementary School,549,0
+6003140,Northwood Middle School,372,0
+6003141,Murrell Taylor Elem. School,437,0
+6003142,Pine Forest Elementary School,524,0
+6003143,Joe T. Robinson Middle School,458,1
+6003146,Bates Elementary School,457,1
+6003149,Maumelle Middle School,769,1
+6003150,Chenal Elementary School,525,3
+6003151,Maumelle High School,1059,1
+6091001,Ark. School For The Blind Elem,37,0
+6091002,Ark. School For The Blind H.S.,39,0
+6092001,Ark. School For The Deaf Elem.,86,0
+6092002,Ark. School For The Deaf H.S.,38,0
+6094001,Arkansas Consolidated High School-Alexander,93,0
+6094002,Arkansas Consolidated High School-Dermott,46,0
+6094004,Arkansas Consolidated High School-Lewisville,29,0
+6094005,Arkansas Consolidated High School-Mansfield,43,0
+6094006,Arkansas Consolidated High School-Harrisburg,33,0
+6094007,Arkansas Consolidated High School-Colt,28,0
+6102005,Maynard Elementary School,235,8
+6102006,Maynard High School,210,31
+6103009,Alma Spikes Elementary School,452,28
+6103010,Pocahontas High School,425,42
+6103011,Pocahontas Upper Elem. School,552,36
+6103012,Pocahontas Junior High School,454,34
+6201003,Central Elementary School,692,0
+6201010,Forrest City Jr. High,418,0
+6201011,Forrest City High School,820,0
+6201014,Stewart Elementary School,364,0
+6202022,Mildred Jackson Elem. School,172,0
+6202024,Hughes High School,146,0
+6205027,Palestine-Wheatley Elem. Sch.,381,39
+6205028,Palestine-Wheatley Senior High,386,48
+6301001,Pine Haven Elementary School,546,61
+6301002,Bauxite High School,487,107
+6301003,Bauxite Middle School,510,117
+6302006,Caldwell Elementary School,558,32
+6302007,Angie Grant Elementary School,587,12
+6302008,Perrin Elementary School,631,33
+6302009,Ringgold Elementary School,551,33
+6302010,Benton Junior High School,817,47
+6302011,Benton Middle School,757,61
+6302012,Benton High School,1099,69
+6303018,Hill Farm Elementary School,605,3
+6303020,Bryant Elementary School,747,34
+6303022,Bryant High School,2714,54
+6303023,Salem Elementary School,621,7
+6303024,Robert L. Davis Elem. School,519,7
+6303025,Springhill Elementary School,621,0
+6303026,Bryant Middle School,1084,34
+6303027,Collegeville Elementary School,573,4
+6303028,Bethel Middle School,920,8
+6303029,Hurricane Creek Elementary,545,11
+6303036,Paron Elementary School,68,0
+6304029,Westbrook Elementary School,444,46
+6304030,Harmony Grove High School,366,64
+6304031,Harmony Grove Middle School,343,35
+6401001,Waldron Elementary School,588,0
+6401003,Waldron High School,453,0
+6401004,Waldron Middle School,480,2
+6502001,Leslie Intermediate School,158,0
+6502005,Marshall Elementary School,243,0
+6502006,Marshall High School,415,0
+6505009,St. Joe Elementary School,82,1
+6505010,St. Joe High School,93,0
+6505011,Bruno-Pyatt High School,98,2
+6505012,Bruno-Pyatt Elementary School,126,0
+6505013,Western Grove Elem. School,144,3
+6505014,Western Grove High School,114,3
+6601001,Ballman Elementary School,273,0
+6601002,Barling Elementary School,393,1
+6601003,Beard Elementary School,300,1
+6601005,Belle Point Alternative Center,79,0
+6601006,Bonneville Elementary School,335,0
+6601007,Carnall Elementary School,264,0
+6601008,Cavanaugh Elementary School,274,1
+6601010,Fairview Elementary School,619,0
+6601011,Howard Elementary School,324,0
+6601012,Raymond F. Orr Elem. School,357,1
+6601014,Albert Pike Elementary School,509,0
+6601016,Spradling Elementary School,429,0
+6601017,Sunnymede Elementary School,665,0
+6601018,Sutton Elementary School,524,0
+6601019,Trusty Elementary School,327,0
+6601020,L. A. Chaffin Jr. High School,890,0
+6601021,William O. Darby Jr. High Sch.,640,0
+6601022,Dora Kimmons Jr. High School,835,0
+6601023,Ramsey Junior High School,934,0
+6601024,Northside High School,1641,5
+6601025,Southside High School,1561,0
+6601029,John P. Woods Elem. School,527,3
+6601030,Harry C. Morrison Elem. School,243,0
+6601031,Elmer H. Cook Elem. School,539,5
+6601032,Tilles Elementary School,365,0
+6601033,Euper Lane Elementary School,470,0
+6602042,Greenwood Junior High School,614,33
+6602043,Greenwood High School,840,35
+6602044,Westwood Elementary School,828,23
+6602045,East Hills Middle School,540,28
+6602046,East Pointe Elementary School,799,33
+6603047,Hackett Elementary School,310,55
+6603048,Hackett High School,300,68
+6604051,Hartford Elementary School,149,0
+6604052,Hartford High School,149,0
+6605056,Lavaca Elementary School,360,8
+6605057,Lavaca High School,236,4
+6605058,Lavaca Middle School,254,6
+6606060,Mansfield Elementary School,293,3
+6606061,Mansfield Middle School,252,8
+6606062,Mansfield High School,294,11
+6701001,Dequeen Elementary School,524,0
+6701002,Dequeen Primary,667,1
+6701003,Dequeen High School,491,1
+6701004,Dequeen Middle School,384,0
+6701005,Dequeen Junior High School,349,0
+6703012,Horatio Elementary School,482,0
+6703013,Horatio High School,373,4
+6802001,Cave City Elementary School,486,30
+6802002,Cave City High School,401,26
+6802007,Cave City Middle School,397,27
+6804009,Cherokee Elementary School,617,0
+6804010,Highland High School,473,7
+6804011,Highland Middle School,511,6
+6901005,Mountain View Elem. School,493,0
+6901006,Mountain View Middle School,379,0
+6901007,Mountain View High School,367,1
+6901011,Rural Special Elem. School,125,4
+6901012,Rural Special High School,92,2
+6901015,Timbo Elementary School,119,3
+6901016,Timbo High School,86,1
+7001001,Hugh Goodwin Elementary School,468,16
+7001004,Northwest Elementary School,490,5
+7001005,Retta Brown Elementary School,291,3
+7001009,Yocum Elementary School,578,2
+7001010,Barton Jr. High School,669,7
+7001011,Washington Middle School,684,7
+7001012,El Dorado High School,1322,21
+7003027,Junction City Elem. School,340,1
+7003028,Junction City High School,339,6
+7007039,Parkers Chapel Elem. School,424,29
+7007040,Parkers Chapel High School,359,26
+7008035,Norphlet Elementary School,182,3
+7008036,Norphlet High School,177,4
+7008043,Smackover Elementary School,418,16
+7008045,Smackover High School,405,18
+7009048,Gardner-Strong Elem. School,180,0
+7009049,Strong High School,155,0
+7102005,Cowsert Elementary School,389,16
+7102006,Clinton High School,253,13
+7102007,Clinton Intermediate School,340,14
+7102008,Clinton Jr High School,311,19
+7104014,Shirley Elementary School,211,3
+7104015,Shirley High School,201,0
+7105018,South Side Elementary School,252,1
+7105019,South Side High School,245,3
+7201001,Elkins Elementary School,222,32
+7201002,Elkins High School,373,31
+7201003,Elkins Middle School,281,34
+7201004,Elkins Elem. Primary School,236,15
+7202005,George R Ledbetter Intermediat,362,21
+7202006,Farmington High School,708,20
+7202007,Randall G. Lynch Middle School,556,23
+7202008,"Jerry ""pop"" Williams Elem Sch",374,7
+7202009,Bob Folsom Elementary School,321,23
+7203010,Asbell Elementary School,389,7
+7203012,Butterfield Elementary School,631,0
+7203013,Happy Hollow Elementary School,493,3
+7203015,Leverett Elementary School,321,7
+7203016,Root Elementary School,494,0
+7203017,Washington Elementary School,342,2
+7203018,Ramay Junior High School,652,5
+7203019,Woodland Junior High School,756,1
+7203020,Fayetteville High School East,2001,25
+7203022,Holcomb Elementary School,587,0
+7203023,Vandergriff Elementary School,688,1
+7203024,McNair Middle School,693,0
+7203025,Holt Middle School,606,4
+7203027,Owl Creek School,850,5
+7204027,Greenland Elementary School,304,4
+7204028,Greenland High School,276,1
+7204029,Greenland Middle School,256,1
+7205031,Lincoln Elementary School,334,0
+7205033,Lincoln Middle School,343,0
+7206035,Prairie Grove Elem. School,400,6
+7206036,Prairie Grove High School,588,3
+7206038,Prairie Grove Middle School,570,1
+7206039,Prairie Grove Intermediate,282,5
+7207040,Elmdale Elementary School,539,0
+7207041,Jones Elementary School,573,0
+7207042,Robert E. Lee Elem. School,511,0
+7207044,John Tyson Elementary School,537,2
+7207046,Westwood Elementary School,512,0
+7207047,Central Junior High School,952,1
+7207048,Southwest Junior High School,681,2
+7207049,Springdale High School,2399,1
+7207050,Parson  Hills Elem. School,552,0
+7207051,Thurman G. Smith Elem. School,616,1
+7207052,Walker Elementary School,533,1
+7207053,George Elementary School,651,0
+7207054,J. O. Kelly Middle School,690,0
+7207055,Helen Tyson Middle School,751,2
+7207057,Bernice Young Elementary,524,0
+7207058,Harp Elementary School,626,0
+7207059,Bayyari Elementary School,606,0
+7207060,George Junior High School,719,0
+7207061,Hellstern Middle School,1006,0
+7207062,Har-Ber High School,2041,1
+7207063,Hunt Elementary School,615,0
+7207064,Turnbow Elementary School,818,0
+7207065,Monitor Elementary,798,0
+7207066,Willis Shaw Elementary Sch,580,0
+7207068,Sonora Elementary School,715,1
+7207069,Sonora Middle School,823,0
+7207070,Lakeside Junior High School,752,0
+7208060,West Fork Elementary School,393,72
+7208061,West Fork Middle School,333,82
+7208062,West Fork High School,396,88
+7301001,H.L. Lubker Elementary School,549,15
+7301003,Bald Knob High School,405,19
+7301004,Bald Knob Middle School,303,15
+7302008,Beebe Elementary School,392,4
+7302009,Beebe Junior High School,466,10
+7302010,Beebe High School,943,21
+7302011,Beebe Middle School,518,6
+7302013,Badger Elementary,361,6
+7302014,Beebe Early Childhood,556,2
+7303014,Bradford Elementary School,252,0
+7303015,Bradford High School,193,0
+7304018,White Co. Central Elem. School,382,2
+7304019,White Co. Central High School,298,5
+7307026,Judsonia Elementary School,355,18
+7307030,Kensett Elementary School,378,13
+7307032,Riverview High School,432,37
+7307033,Riverview Junior High School,204,14
+7309038,Pangburn Elementary School,395,9
+7309039,Pangburn High School,371,6
+7310042,Rose Bud Elementary School,433,13
+7310043,Rose Bud High School,409,12
+7311046,Sidney Deener Elem. School,430,10
+7311047,McRae Elementary School,469,7
+7311051,Ahlf Junior High School,658,13
+7311052,Searcy High School,1175,29
+7311053,Westside Elementary School,513,3
+7311054,Southwest Middle School,897,14
+7401001,Augusta Elementary School,211,0
+7401003,Augusta High School,163,0
+7403012,McCrory Elementary School,312,16
+7403013,McCrory High School,314,16
+7503005,S.C. Tucker Elementary School,406,40
+7503006,Danville High School,241,24
+7503007,Danville Middle School,217,31
+7504009,Dardanelle Intermediate School,307,5
+7504010,Dardanelle Middle School,491,7
+7504011,Dardanelle High School,564,6
+7504013,Dardanelle Primary School,735,5
+7509030,Western Yell Co. Elem. School,214,7
+7509033,Western Yell Co. High School,209,10
+7510019,Two Rivers High School,491,6
+7510024,Two Rivers Elementary School,303,0
