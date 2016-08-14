@@ -4,7 +4,9 @@
 
   benuklove@gmail.com
   
-  
+  Take in csv data files from Arkansas School Performance Report Cards,
+  http://adesrc.arkansas.gov/lea
+  and put them into a single dataframe for wrangling and visualization
 
 """
 
@@ -20,7 +22,6 @@ del df1['LEADescription_y']
 dfchoice = pd.read_csv('data/2015_SchoolChoice.csv')
 df2 = pd.merge(df1, dfchoice, how='outer', on='LEA')
 del df2['LEADescription']
-
 del df2['Enrollment']
 
 # Read in and merge specific college entrance info with dataframe
