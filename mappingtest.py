@@ -10,7 +10,10 @@
 
 """
 
+from pandas import DataFrame
 import pandas as pd
+from geopy.geocoders import Nominatim
+import time
 
 # Read in and merge school info and environment
 dfchar = pd.read_csv('data/2015_SchoolCharacteristics.csv')
@@ -65,8 +68,44 @@ dfgradrate2 = dfgradrate[grcols].copy()
 dfgradrate2.rename(columns={'School LEA': 'LEA'}, inplace=True)
 df6 = pd.merge(df5, dfgradrate2, how='outer', on='LEA')
 
+# Some cleanup
 df6.rename(columns={'LEADescription_x': 'LEADescription'}, inplace=True)
+df6['MailingZip'] = df6['MailingZip'].fillna(0.0).astype(int)
 
-# print(df6)
+# Combine relevant columns to make address strings
+dfaddresscols = df6[[0, 5, 6, 7, 8]]
+addresses = {}
+for index, row in dfaddresscols.iterrows():
+    addresses[row[0]] = (str(row[2]) + " " + str(row[3]))
 
-df6.to_csv('data/arschools.csv', encoding='utf-8')
+# Get latitudes and longitudes from addresses and merge with dataframe
+attempt = 0
+distinction = -0.0001
+for lea, address in addresses.items():
+    # if lea == 5204026:
+    #     break
+    # if attempt > 1:
+    #     break
+    geolocator = Nominatim()
+    location = geolocator.geocode(addresses[lea], timeout=None)
+    if type(location) == 'NoneType':
+        continue
+    lat = round((location.latitude + distinction), 7)
+    lng = location.longitude
+    addresses[lea] = (lat, lng)
+    distinction += .000001
+    attempt += 1
+    time.sleep(2.2)
+
+leas = []
+addrs = []
+for lea, address in addresses.items():
+    leas.append(lea)
+    addrs.append(address)
+addresses = {'LEA': leas, 'latlongs': addrs}
+frame = DataFrame(addresses)
+print(frame)
+
+df7 = pd.merge(df6, frame, how='outer', on='LEA')
+# print(df7)
+df7.to_csv('data/arschools.csv', encoding='utf-8')
