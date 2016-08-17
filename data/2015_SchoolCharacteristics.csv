@@ -334,8 +334,8 @@ LEA,LEADescription,AdminFirstName,AdminLastName,AdminEmailAddress,ShippingAddres
 2404015,Elgin B. Milton Elem. School,SHANE,VINCENT,shane.vincent@ozarkhillbillies.org,1601 WALDEN DR.,Ozark,AR,72949,750,16,15,8858.46,9641.65,0
 2404016,Ozark Junior High School,MICHAEL,BURNS,jerrod.burns@ozarkhillbillies.org,1301 WALDEN DR.,Ozark,AR,72949,270,14,15,8858.46,9641.65,0
 2404017,Ozark High School,JODY,JENKINS,jody.jenkins@ozarkhillbillies.org,1631 HILLBILLY DR.,Ozark,AR,72949,410,14,14,8858.46,9641.65,0
-2501001,Mammoth Spring Elem. School,Bradley,Powell,wade.powell@mammothspringschools.com,"MAMMOTH SPRING, AR 72554",Mammoth Spring,AR,72554,227,15,14,9594.49,9641.65,6
-2501002,Mammoth Spring High School,Brian,Davis,brian.davis@mammothspringschools.com,"MAMMOTH SPRING, AR 72554",Mammoth Spring,AR,72554,223,9,9,9594.49,9641.65,6
+2501001,Mammoth Spring Elem. School,Bradley,Powell,wade.powell@mammothspringschools.com,410 Goldsmith Ave,Mammoth Spring,AR,72554,227,15,14,9594.49,9641.65,6
+2501002,Mammoth Spring High School,Brian,Davis,brian.davis@mammothspringschools.com,410 Goldsmith Ave,Mammoth Spring,AR,72554,223,9,9,9594.49,9641.65,6
 2502005,Salem Elementary School,MATTHEW,JOHNSON,corey.johnson@salemschools.net,"313 HWY 62 E, SUITE #4",Salem,AR,72576,421,19,13,8582.02,9641.65,13
 2502006,Salem High School,GREGORY,GUILTNER,wayne.guiltner@salemschools.net,"313 HWY 62 E, SUITE #2",Salem,AR,72576,345,11,11,8582.02,9641.65,25
 2503009,Viola Elementary School,Buddy,Burden,andyb@viola.ncsc.k12.ar.us,314 LONGHORN DRIVE,Viola,AR,72583,203,13,11,10422.68,9641.65,3
@@ -885,8 +885,8 @@ LEA,LEADescription,AdminFirstName,AdminLastName,AdminEmailAddress,ShippingAddres
 6201011,Forrest City High School,OSCEOLA,HICKS,osceola.hicks@fcsd.grsc.k12.ar.us,467 VICTORIA ST,Forrest City,AR,72335,820,14,14,12383.45,9641.65,0
 6201014,Stewart Elementary School,HAZEL,WALLACE,HAZEL.WALLACE@FCSD.GRSC.K12.AR.US,400 DAWSON RD,Forrest City,AR,72335,364,22,17,12383.45,9641.65,0
 6201702,Lincoln Academy OF Excellence,SHIRLEY,TAYLOR,SHIRLEY.TAYLOR@FCSD.GRSC.K12.AR.US,149 WATER ST,Forrest City,AR,72335,374,18,17,12383.45,9641.65,
-6202022,Mildred Jackson Elem. School,JEFF,SPALETTA,jspaletta@hsd4.org,310 COLLEGE,Hughes,AR,72348,172,16,10,17575.24,9641.65,0
-6202024,Hughes High School,JEFF,SPALETTA,jspaletta@hsd4.org,310 COLLEGE,Hughes,AR,72348,146,8,8,17575.24,9641.65,0
+6202022,Mildred Jackson Elem. School,JEFF,SPALETTA,jspaletta@hsd4.org,310 COLLEGE St,Hughes,AR,72348,172,16,10,17575.24,9641.65,0
+6202024,Hughes High School,JEFF,SPALETTA,jspaletta@hsd4.org,310 COLLEGE St,Hughes,AR,72348,146,8,8,17575.24,9641.65,0
 6205027,Palestine-Wheatley Elem. Sch.,PATTY,HERNANDEZ,pernandez@pwsd.k12.ar.us,7856 HWY. 70 WEST,PALESTINE,AR,72372,381,18,11,7448.39,9641.65,0
 6205028,Palestine-Wheatley Senior High,RANDY,CANNON,rcannon@pwsd.k12.ar.us,7900 HWY. 70 WEST,Palestine,AR,72372,386,17,7,7448.39,9641.65,0
 6205031,Palestine-Wheatley Middle Sch.,,,,,,,,,,,7448.39,9641.65,
