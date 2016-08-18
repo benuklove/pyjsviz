@@ -84,7 +84,6 @@ for index, row in dfaddresscols.iterrows():
 # print(addresses)
 # frame.to_csv('data/addresses.csv', encoding='utf-8')
 
-
 # Get latitudes and longitudes from addresses and merge with dataframe
 attempt = 0
 for lea, address in addresses.items():
@@ -97,15 +96,15 @@ for lea, address in addresses.items():
     attempt += 1
     time.sleep(0.5)
 
-# leas = []
-# addrs = []
-# for lea, address in addresses.items():
-#     leas.append(lea)
-#     addrs.append(address)
-# addresses = {'LEA': leas, 'latlongs': addrs}
-# frame = DataFrame(addresses)
+leas = []
+addrs = []
+for lea, address in addresses.items():
+    leas.append(lea)
+    addrs.append(address)
+addresses = {'LEA': leas, 'latlongs': addrs}
+frame = DataFrame(addresses)
 # print(frame)
 
-# df7 = pd.merge(df6, frame, how='outer', on='LEA')
-# print(df7)
-# df7.to_csv('data/arschools.csv', encoding='utf-8')
+df7 = pd.merge(df6, frame, how='outer', on='LEA')
+print(df7)
+df7.to_csv('data/arschools.csv', encoding='utf-8')
