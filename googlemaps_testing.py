@@ -10,7 +10,7 @@
 
 import googlemaps
 
-gmaps = googlemaps.Client(key='AIzaSyBQRQEAGrUDyGZvzLGUD4nayxwYHhuL6xw')
+gmaps = googlemaps.Client(key='Your_Key_Here')
 
 # Geocode an address
 geocode_result = gmaps.geocode('310 COLLEGE St Hughes AR 72348')
