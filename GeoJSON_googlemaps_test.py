@@ -4,7 +4,7 @@
 
   benuklove@gmail.com
   
-  Google Maps with Bokeh
+  Playing with Google Maps with Bokeh's geojson datasource
 
 """
 
@@ -60,5 +60,5 @@ circle = Circle(x="lon", y="lat", size=15, fill_color="blue", fill_alpha=0.8,
 plot.add_glyph(source, circle)
 
 plot.add_tools(PanTool(), WheelZoomTool(), HoverTool())
-output_file("gmap_plot.html")
+# output_file("gmap_plot.html")
 show(plot)

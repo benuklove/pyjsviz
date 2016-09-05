@@ -84,16 +84,13 @@ for index, row in dfaddresscols.iterrows():
 # print(addresses)
 # frame.to_csv('data/addresses.csv', encoding='utf-8')
 
-# Get latitudes and longitudes from addresses and merge with dataframe
-attempt = 0
+""" Get latitudes and longitudes from addresses and merge with dataframe """
+# Use Google Maps API Python Client for web services to geocode addresses
 for lea, address in addresses.items():
-    # if attempt > 40:
-    #     break
-    print(lea, addresses[lea])
+    # print(lea, addresses[lea])
     geocode_result = gmaps.geocode(addresses[lea])
     addresses[lea] = ((geocode_result[0]['geometry']['location']['lat']),
                       (geocode_result[0]['geometry']['location']['lng']))
-    attempt += 1
     time.sleep(0.5)
 
 leas = []
@@ -106,5 +103,5 @@ frame = DataFrame(addresses)
 # print(frame)
 
 df7 = pd.merge(df6, frame, how='outer', on='LEA')
-print(df7)
+# print(df7)
 df7.to_csv('data/arschools.csv', encoding='utf-8')

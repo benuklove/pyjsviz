@@ -97,7 +97,7 @@ color = Select(title='Color', value='None', options=['None'] + quantileable)
 color.on_change('value', update)
 
 controls = widgetbox([x, y, color, size], width=200)
-layout = row(controls)  # , create_figure)
+layout = row(controls, create_figure())
 
 curdoc().add_root(layout)
 curdoc().title = "Crossfilter"
