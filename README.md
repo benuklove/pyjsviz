@@ -1,5 +1,5 @@
 Python and JavaScript Data Visualization - "pyjsviz"
-----------------------------------------------------
+====================================================
 
 I started this repository for Data Visualization using a `Python Dataviz <http://shop.oreilly.com/product/0636920037057.do>`__ book.
 
