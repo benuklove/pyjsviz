@@ -1,5 +1,4 @@
-# pyjsviz
-Python and JavaScript Data Visualization
+# "pyjsviz"  Python and JavaScript Data Visualization
 ----------------------------------------
 
 I started this repository for Data Visualization using a 'Python Dataviz 
