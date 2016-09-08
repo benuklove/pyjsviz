@@ -21,7 +21,7 @@ from bokeh.models import (
 map_options = GMapOptions(lat=34.713, lng=-92.464, map_type="roadmap", zoom=7)
 
 plot = GMapPlot(
-    api_key='YOUR API KEY',
+    api_key='AIzaSyBQRQEAGrUDyGZvzLGUD4nayxwYHhuL6xw',
     x_range=DataRange1d(), y_range=DataRange1d(), map_options=map_options
 )
 
