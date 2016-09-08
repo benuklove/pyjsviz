@@ -18,7 +18,11 @@ from bokeh.models import (
 map_options = GMapOptions(lat=34.713, lng=-92.464, map_type="roadmap", zoom=7)
 
 plot = GMapPlot(
+<<<<<<< HEAD
     api_key='Your Key Here',
+=======
+    api_key='YOUR KEY HERE',
+>>>>>>> origin/master
     x_range=DataRange1d(), y_range=DataRange1d(), map_options=map_options
 )
 plot.title.text = "Arkansas Schools"
