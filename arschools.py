@@ -12,17 +12,20 @@ import pandas as pd
 import numpy as np
 
 from bokeh.io import output_file, show
+from bokeh.plotting import figure
+from bokeh.layouts import row
 from bokeh.palettes import RdYlGn10 as palette
 from bokeh.models import (
     GMapPlot, GMapOptions, ColumnDataSource, Circle, DataRange1d, PanTool,
     WheelZoomTool, HoverTool
 )
 
+
 map_options = GMapOptions(lat=34.713, lng=-92.464, map_type="roadmap", zoom=7)
 
 plot = GMapPlot(
-    api_key='AIzaSyBQRQEAGrUDyGZvzLGUD4nayxwYHhuL6xw',
-    x_range=DataRange1d(), y_range=DataRange1d(), map_options=map_options
+    api_key='AIzaSyA8KPoava_5gEOoChBlr2yOEC0vNxrTQ_Y',
+    x_range=DataRange1d(), y_range=DataRange1d(), map_options=map_options,
 )
 
 plot.title.text = "Arkansas Schools' Average ACT Scores"
@@ -104,8 +107,23 @@ hover = HoverTool(
     ]
 )
 
+# Legend info
+factors = ["ACT < 16", "16 < ACT <= 17", "17 < ACT <= 18",
+           "18 < ACT <= 19", "19 < ACT <= 20", "20 < ACT <= 21",
+           "21 < ACT <= 22", "22 < ACT <= 24", "24 < ACT <= 26",
+           "ACT > 26"]
+x = [0] * 10
+y = factors
+
+p = figure(width=200, toolbar_location=None, y_range=factors)  # , x_range=None)
+p.rect(x, y, color=palette, width=10, height=1)  # , x_range_name=None)
+p.xaxis.major_label_text_color = None
+p.xaxis.major_tick_line_color = None
+p.xaxis.minor_tick_line_color = None
+
 # Render the plot
 plot.add_glyph(source, circle)
 plot.add_tools(PanTool(), WheelZoomTool(), hover)
-output_file("gmap_plot.html")
-show(plot)
+
+# output_file("gmap_plot.html")
+show(row(plot, p))
