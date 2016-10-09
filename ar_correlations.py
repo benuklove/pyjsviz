@@ -11,8 +11,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from pandas.tools.plotting import scatter_matrix
-# df = pd.read_csv("data/arschools.csv",
-#                  usecols=[10, 11, 12, 19, 20, 27, 34, 36, 37, 38, 39, 41, 61])
 
 df = pd.read_csv("data/arschools.csv",
                  usecols=[10, 11, 12, 19, 20, 27, 34, 36, 37, 38, 39,
