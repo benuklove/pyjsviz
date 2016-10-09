@@ -4,7 +4,7 @@
 
   benuklove@gmail.com
   
-  LOL did this for udacity readiness test
+  LOL did this for a udacity readiness test
 
 """
 
