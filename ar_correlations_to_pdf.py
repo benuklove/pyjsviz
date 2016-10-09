@@ -4,7 +4,7 @@
 
   benuklove@gmail.com
   
-  Generates a pdf of the specified plots from ar_correlations.py
+  Generates a (53 page) pdf of the specified plots from ar_correlations.py
 
 """
 
@@ -14,10 +14,32 @@ from matplotlib.backends.backend_pdf import PdfPages
 from pandas.tools.plotting import scatter_matrix
 
 df = pd.read_csv("data/arschools.csv",
-                 usecols=[10, 11, 12, 19, 20, 27, 34, 36, 37, 38, 39, 41, 49, 61])
+                 usecols=[10, 11, 12, 19, 20, 27, 34, 36, 37, 38, 39,
+                          41, 49, 61], na_values="RV")
 
 # Plots of note, put into pdf
 with PdfPages('data/multi_page.pdf') as pdf:
+    # Specific variables chosen
+    x = ["AverageClassSize", "AverageYearsTeachingExperience",
+         "DistrictAverageSpendingPerPupil", "SchoolEnrollment",
+         "SchoolChoiceTotal", "EconDisadvantaged",
+         "Economic Disadvantage Overall Grad Rate"]
+    y = ["AvgComposite", "NumberOfAPExamsScored3OrAbove",
+         "OverallCollegeGoingRate", "OverallPoints",
+         "OverallGraduationRate", "DropoutRate",
+         "CollegeRemediationRate"]
+
+    # Go through each pair of variables and plot X vs Y
+    count = 0
+    for i in range(0, 7):
+        for j in range(0, 7):
+            df.plot.scatter(x=x[i], y=y[j])
+            count += 1
+            s = "Chart "
+            titlename = s + str(count)
+            plt.title(titlename)
+            pdf.savefig()
+            plt.close()
 
     df.plot.scatter(x='AvgComposite', y='CollegeRemediationRate')
     plt.title('Chart One')
@@ -36,7 +58,7 @@ with PdfPages('data/multi_page.pdf') as pdf:
     pdf.savefig()
     plt.close()
 
-    # First 11 categories, scattered, vs each other
+    # Scatter charts, all categories, vs each other
     sm = scatter_matrix(df, alpha=0.5, figsize=(15, 15), diagonal='kde')
     # Format for clarity
     # Change label rotation for each axis
