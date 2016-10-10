@@ -16,7 +16,7 @@ Sources
 Bokeh Stuff here
 ----------------
 
-Bokeh and stuff and things
+Bokeh output is [hosted here] (http://pyjsviz.benlove.info/).
 
 
 
