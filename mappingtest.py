@@ -15,7 +15,7 @@ import pandas as pd
 import googlemaps
 import time
 
-gmaps = googlemaps.Client(key='AIzaSyBQRQEAGrUDyGZvzLGUD4nayxwYHhuL6xw')
+gmaps = googlemaps.Client(key='YOUR_API_KEY_HERE)
 
 # Read in and merge school info and environment
 dfchar = pd.read_csv('data/2015_SchoolCharacteristics.csv')
